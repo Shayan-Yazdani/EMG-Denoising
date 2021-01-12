@@ -3,7 +3,7 @@
 This repository contains the source codes for the paper "A new algorithm for ECG interference removal from single channel EMG recording. Australasian physical & engineering sciences in medicine 40, no. 3 (2017): 575-584."
 
 
-<img src="GUI.jpg">
+<img src="GUI.JPG">
 
 
 ## Required packages
