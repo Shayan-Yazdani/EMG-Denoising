@@ -27,7 +27,7 @@ python GUI_EMG.py
 
 **"Upload file"** button can be used to import contaminated EMG signal <br />
 &nbsp;&nbsp;&nbsp;&nbsp;The file shoud be in txt format and have one columun with no header, starting from the first row as shown blow:  
-![plot](input_data.jpg)
+<image src='input_data.jpg'>
 
 **"Enter fs"** button can be used to enter the sampling frequency range <br />
 **"Denoise"** button will apply denoising algorithm <br />
