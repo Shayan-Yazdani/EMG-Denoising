@@ -3,7 +3,7 @@
 This repository contains the source codes for the paper "A new algorithm for ECG interference removal from single channel EMG recording. Australasian physical & engineering sciences in medicine 40, no. 3 (2017): 575-584."
 
 
-![plot](GUI.jpg)
+<img src='GUI.jpg'>
 
 
 ## Required packages
@@ -27,7 +27,7 @@ python GUI_EMG.py
 
 **"Upload file"** button can be used to import contaminated EMG signal <br />
 &nbsp;&nbsp;&nbsp;&nbsp;The file shoud be in txt format and have one columun with no header, starting from the first row as shown blow:  
-<image src='input_data.jpg'>
+<img src='input_data.jpg'>
 
 **"Enter fs"** button can be used to enter the sampling frequency range <br />
 **"Denoise"** button will apply denoising algorithm <br />
