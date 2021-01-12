@@ -15,7 +15,7 @@ This repository contains the source codes for the paper "A new algorithm for ECG
     tkinter
 You can also use the following command to install all the requiered packages together:
 ```
-!pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Usage
 
